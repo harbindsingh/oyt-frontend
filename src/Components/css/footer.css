@@ -1,0 +1,12 @@
+.footerlogo {
+  width: 20%;
+}
+.footerinfo-div {
+  width: 30%;
+}
+
+@media only screen and (max-width: 600px) {
+  .footerinfo-div {
+    width: 100%;
+  }
+}

@@ -9,7 +9,7 @@ function QueryForm() {
     const contact = e.target.elements.contact.value;
     const query = e.target.elements.query.value;
     axios
-      .post("http://localhost:8000/", {
+      .post("https://oytbackend-wth83.ondigitalocean.app", {
         name: name,
         contact: contact,
         query: query,

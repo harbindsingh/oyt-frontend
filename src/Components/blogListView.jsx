@@ -16,7 +16,7 @@ class BlogList extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
     axios
-      .get("http://localhost:8000")
+      .get("https://oytbackend-wth83.ondigitalocean.app")
       .then((res) => {
         this.setState({
           blogsList: res.data,

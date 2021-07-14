@@ -14,7 +14,7 @@ class BlogDetail extends Component {
     window.scrollTo(0, 0);
     const blogId = this.props.match.params.blogId;
     axios
-      .get(`http://localhost:8000/${blogId}`)
+      .get(`https://oytbackend-wth83.ondigitalocean.app/${blogId}`)
       .then((res) => {
         this.setState({
           blog: res.data,

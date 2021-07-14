@@ -24,7 +24,7 @@ class JobApplicationForm extends Component {
     form_data.append("resume_cv", resume_cv);
 
     axios
-      .post("http://localhost:8000", form_data, {
+      .post("https://oytbackend-wth83.ondigitalocean.app", form_data, {
         headers: {
           "content-type": "multipart/form-data",
         },

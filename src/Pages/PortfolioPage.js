@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-
+import image from "../Images/portfolioImg.png";
 import axios from "axios";
 
 class PortfolioPage extends Component {

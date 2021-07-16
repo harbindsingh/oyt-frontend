@@ -322,9 +322,9 @@ class Home extends Component {
             <Link to="/Portfolio">
               <Carousel
                 noText={true}
-                img1={this.P_images[0]}
-                img2={this.P_images[1]}
-                img3={this.P_images[2]}
+                img1={CImg1}
+                img2={CImg2}
+                img3={CImg3}
                 nobtn={true}
               />
             </Link>

@@ -336,7 +336,7 @@ class Home extends Component {
             // style={{ maxWidth: "70%" }}
           >
             <h4 className="my-5">Message from our Founders:</h4>
-            <Carousel
+            <carousel
               img1={msg1Img}
               img2={msg2Img}
               img3={msg3Img}

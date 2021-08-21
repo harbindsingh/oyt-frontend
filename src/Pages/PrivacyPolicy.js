@@ -5,13 +5,13 @@ function privacyPolicy() {
   return (
     <>
       <Helmet>
-        <title>Privacy Policy GKTRON</title>
+        <title>Privacy Policy MQTT Dashboard</title>
       </Helmet>
       <section className="container my-5">
         <h1>Privacy Policy</h1>
         <div>
           <p>
-            OxYmora Technology Pvt Ltd built the GKTRON app as a Free app. This
+            OxYmora Technology Pvt Ltd built the MQTT Dashboard app as a Free app. This
             SERVICE is provided by OxYmora Technology Pvt Ltd at no cost and is
             intended for use as is.
           </p>
@@ -27,7 +27,7 @@ function privacyPolicy() {
             Service. We will not use or share your information with anyone
             except as described in this Privacy Policy. The terms used in this
             Privacy Policy have the same meanings as in our Terms and
-            Conditions, which is accessible at GKTRON unless otherwise defined
+            Conditions, which is accessible at MQTT Dashboard unless otherwise defined
             in this Privacy Policy.
           </p>
           <h3>Information Collection and Use</h3>

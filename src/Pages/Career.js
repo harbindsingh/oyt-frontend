@@ -91,7 +91,7 @@ class CareerPage extends Component {
                   <li>Drop us a mail on hr.oytechnology@gmail.com,</li>
                   <li>Contact us @ +91 8285524418,</li>
                   <li>
-                    or, Directly visit us at our address:- 83/186, Sector 8,
+                    or, Directly visit us at our address:- 83/189, Sector 8,
                     Pratap Nagar, Jaipur, Rajasthan 302033.
                   </li>
                 </ol>
